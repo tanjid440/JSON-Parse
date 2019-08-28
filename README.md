@@ -10,9 +10,9 @@ you want the value for. For more info **read the jsonTester.java** which is well
 
 **Example**
 
-  JsonParse *person* = new JsonParse(url);
+  **JsonParse** *person* = **new JsonParse(** *url* **);**
   
-  String *name* = person.getData(*"name"*);
+  **String** *name* = person.**getData(** *"name"* **);**
 
 ***Thank you***
 
